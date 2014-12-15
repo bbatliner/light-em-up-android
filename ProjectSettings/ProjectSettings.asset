@@ -109,8 +109,20 @@ PlayerSettings:
   m_BuildTargetIcons:
   - m_BuildTarget: 
     m_Icons:
-    - m_Icon: {fileID: 2800000, guid: 27298c32bc8058946a746bfdcaa8be33, type: 3}
+    - m_Icon: {fileID: 2800000, guid: baa1ccd143594cb469499b5c8972cae5, type: 3}
       m_Size: 128
+  - m_BuildTarget: Android
+    m_Icons:
+    - m_Icon: {fileID: 2800000, guid: 48f59e3237da28e468cdc54e75c83c07, type: 3}
+      m_Size: 144
+    - m_Icon: {fileID: 2800000, guid: c41202e5216042f46a196d5aaec2c256, type: 3}
+      m_Size: 96
+    - m_Icon: {fileID: 2800000, guid: 4b1d9a055d3d4864ca5e07d27c0d8ddf, type: 3}
+      m_Size: 72
+    - m_Icon: {fileID: 2800000, guid: 4b2b253641f84514e8c7ce0da66ecdfd, type: 3}
+      m_Size: 48
+    - m_Icon: {fileID: 2800000, guid: 2c89084bff564c141836be1b7958d35e, type: 3}
+      m_Size: 36
   m_BuildTargetBatching:
   - m_BuildTarget: Android
     m_StaticBatching: 1
